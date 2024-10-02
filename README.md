@@ -23,7 +23,7 @@ Welcome to the Space Portfolio project! This repository showcases my work and pa
 - HTML5
 - CSS3
 - JavaScript
-- [Any libraries or frameworks you’re using, e.g., Bootstrap, React]
+- Nextjs and Tailwind Css
 
 ## Installation
 
